@@ -39,6 +39,24 @@ echo "Git 🔄 | Docker 🐳 | VS Code 📝"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sfauzi&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfauzi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+
+<div align="center">
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sfauzi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=sfauzi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📫 Let's Connect!
 
