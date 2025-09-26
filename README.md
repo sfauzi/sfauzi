@@ -12,20 +12,20 @@ I craft elegant, performant web solutions with modern technologies.
 
 ```bash
 # FRONTEND
-echo "Vue.js ⚡ | Tailwind CSS 🎨 | JavaScript/TypeScript 🧠"
+echo "Nuxt JS 💚 | Vue.js ⚡ | Tailwind CSS 🎨 | JavaScript/TypeScript 🧠"
 
 # BACKEND
 echo "Laravel 🚀 | PHP 🐘 | MySQL 🗄️"
 
 # TOOLS
-echo "Git 🔄 | Docker 🐳 | VS Code 📝"
+echo "Git 🔄 | Docker 🐳"
 ```
 
 ## 🚀 What I Do
 
 - 🌐 Develop responsive, dynamic web applications
 - ⚙️ Build robust backend systems with Laravel
-- 🎨 Craft beautiful UI/UX with Vue.js and Tailwind CSS
+- 🎨 Craft beautiful UI/UX with Nuxt JS, Vue.js and Tailwind CSS
 - 🛠️ Implement modern development workflows
 - 📱 Create seamless user experiences
 
