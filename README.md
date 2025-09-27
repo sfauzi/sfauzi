@@ -31,19 +31,19 @@ echo "Git 🔄 | Docker 🐳"
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sfauzi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
+</div> -->
 
-<div align="center">
+x <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sfauzi&theme=tokyonight" alt="GitHub Streak" />
-</div>
+</div> 
 
-<div align="center">
+<!-- <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfauzi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+</div> -->
 
 
 <div align="center">
