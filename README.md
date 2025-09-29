@@ -1,14 +1,17 @@
 # 👋 Hi there, I'm S Fauzi! 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZjNWIwYTRkOTcwMjhlMWZlOTRiODdiZTAzMzMwM2ZkMDQ1M2VmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZjNWIwYTRkOTcwMjhlMWZlOTRiODdiZTAzMzMwM2ZkMDQ1M2VmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="500" /> -->
+  <img width="2376" height="594" alt="banner github" src="https://github.com/user-attachments/assets/690d39c5-f09f-4fe2-a76c-b50512363f5a" />
+
+
 </div>
 
-## 💻 Web Developer Extraordinaire
+<!-- ## 💻 Web Developer Extraordinaire
 
-I craft elegant, performant web solutions with modern technologies.
+I craft elegant, performant web solutions with modern technologies. -->
 
-### 🔧 My Tech Stack
+## 🔧 My Tech Stack
 
 ```bash
 # FRONTEND
@@ -53,27 +56,31 @@ echo "Git 🔄 | Docker 🐳"
 
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=sfauzi&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--  ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📫 Let's Connect!
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- ## 📫 Let's Connect!
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sfauzi/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.speechlessmind.com/)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.speechlessmind.com/)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.sfauzi.dev/)
   
-</div>
+</div> 
 
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sfauzi&color=blueviolet" alt="Profile Views" />
-</div>
+--- -->
+
 
 ## 🎮 Let's Have Fun with Me!
 
 <img src="https://raw.githubusercontent.com/sfauzi/sfauzi/output/snake.svg" alt="Snake animation" />
+
+[![](https://visitcount.itsvg.in/api?id=sfauzi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sfauzi&color=blueviolet" alt="Profile Views" />
+</div>
