@@ -5,7 +5,7 @@
   <img width="2376" height="594" alt="banner github" src="https://github.com/user-attachments/assets/690d39c5-f09f-4fe2-a76c-b50512363f5a" />
 
 
-</div>
+</div> 
 
 <!-- ## 💻 Web Developer Extraordinaire
 
