@@ -21,7 +21,7 @@ echo "Nuxt JS 💚 | Vue.js ⚡ | Tailwind CSS 🎨 | JavaScript/TypeScript 🧠
 echo "Laravel 🚀 | PHP 🐘 | MySQL 🗄️"
 
 # TOOLS
-echo "Git 🔄"
+echo "Git 🔄" 
 ```
 
 ## 🚀 What I Do 
