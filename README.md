@@ -81,6 +81,6 @@ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![](https://visitcount.itsvg.in/api?id=sfauzi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
+<div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sfauzi&color=blueviolet" alt="Profile Views" />
 </div>
