@@ -17,7 +17,7 @@ I craft elegant, performant web solutions with modern technologies. -->
 echo "Nuxt JS 💚 | Vue.js ⚡ | Tailwind CSS 🎨 | JavaScript/TypeScript 🧠"
 
 # BACKEND
-echo "Laravel 🚀 | PHP 🐘 | MySQL 🗄️"
+echo "Laravel 🚀 | PHP 🐘 | MySQL 🗄️" 
 
 # TOOLS
 echo "Git 🔄" 
