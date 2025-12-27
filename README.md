@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm S Fauzi! 
+# 👋 Hi there, I'm S Fauzi!
 
 <div align="center">
   <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZjNWIwYTRkOTcwMjhlMWZlOTRiODdiZTAzMzMwM2ZkMDQ1M2VmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="500" /> -->
