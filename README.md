@@ -31,7 +31,7 @@ echo "Git 🔄"
 - 🛠️ Implement modern development workflows 
 - 📱 Create seamless user experiences 
 
-## 📈 GitHub Stats 
+## 📈 GitHub Stats
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sfauzi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
