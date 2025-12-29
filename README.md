@@ -6,7 +6,7 @@
 
 </div> 
 
-<!-- ## 💻 Web Developer Extraordinaire 
+<!-- ## 💻 Web Developer Extraordinaire
 
 I craft elegant, performant web solutions with modern technologies. -->
 
