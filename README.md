@@ -37,7 +37,7 @@ echo "Git 🔄"
   <img src="https://github-readme-stats.vercel.app/api?username=sfauzi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div> -->
 
-<div align="center"> 
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sfauzi&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
