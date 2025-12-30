@@ -74,7 +74,7 @@ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 --- -->
 
 
-## 🎮 Let's Have Fun with Me! 
+## 🎮 Let's Have Fun with Me!
 
 <img src="https://raw.githubusercontent.com/sfauzi/sfauzi/output/snake.svg" alt="Snake animation" /> 
 
