@@ -53,7 +53,7 @@ echo "Git 🔄"
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sfauzi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-</div> 
+</div>
 
 <!--  ---
 
