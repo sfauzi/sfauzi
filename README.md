@@ -29,7 +29,7 @@ echo "Git 🔄"
 - ⚙️ Build robust backend systems with Laravel
 - 🎨 Craft beautiful UI/UX with Nuxt JS, Vue.js and Tailwind CSS
 - 🛠️ Implement modern development workflows 
-- 📱 Create seamless user experiences 
+- 📱 Create seamless user experiences
 
 ## 📈 GitHub Stats
 
