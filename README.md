@@ -12,7 +12,7 @@ I craft elegant, performant web solutions with modern technologies. -->
 
 ## 🔧 My Tech Stack
 
-```bash
+```bash 
 # FRONTEND
 echo "Nuxt JS 💚 | Vue.js ⚡ | Tailwind CSS 🎨 | JavaScript/TypeScript 🧠"
 
