@@ -23,7 +23,7 @@ echo "Laravel 🚀 | PHP 🐘 | MySQL 🗄️"
 echo "Git 🔄"
 ```
 
-## 🚀 What I Do 
+## 🚀 What I Do
 
 - 🌐 Develop responsive, dynamic web applications
 - ⚙️ Build robust backend systems with Laravel
