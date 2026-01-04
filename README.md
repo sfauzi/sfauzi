@@ -10,7 +10,7 @@
 
 I craft elegant, performant web solutions with modern technologies. -->
 
-## 🔧 My Tech Stack 
+## 🔧 My Tech Stack
 
 ```bash 
 # FRONTEND
