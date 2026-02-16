@@ -31,7 +31,9 @@ echo "Git 🔄"
 - 🛠️ Implement modern development workflows
 - 📱 Create seamless user experiences
 
+<!--
 ## 📈 GitHub Stats
+--- -->
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sfauzi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -48,12 +50,12 @@ echo "Git 🔄"
 </div> -->
 
 
-<div align="center">
+<!-- <div align="center">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sfauzi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-</div>
+</div> -->
 
 <!--  ---
 
@@ -74,7 +76,7 @@ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 --- -->
 
 
-## 🎮 Let's Have Fun with Me!
+<!-- ## 🎮 Let's Have Fun with Me!
 
 <img src="https://raw.githubusercontent.com/sfauzi/sfauzi/output/snake.svg" alt="Snake animation" /> 
 
@@ -83,3 +85,5 @@ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sfauzi&color=blueviolet" alt="Profile Views" /> 
 </div>
+
+--- -->
