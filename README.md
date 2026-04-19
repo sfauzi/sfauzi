@@ -23,6 +23,7 @@ echo "Laravel 🚀 | PHP 🐘 | MySQL 🗄️"
 echo "Git 🔄"
 ```
 
+<!--
 ## 🚀 What I Do
 
 - 🌐 Develop responsive, dynamic web applications
@@ -30,7 +31,8 @@ echo "Git 🔄"
 - 🎨 Craft beautiful UI/UX with Nuxt JS, Vue.js and Tailwind CSS
 - 🛠️ Implement modern development workflows
 - 📱 Create seamless user experiences
-
+-->
+  
 <!--
 ## 📈 GitHub Stats
 --- -->
