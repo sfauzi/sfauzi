@@ -14,13 +14,13 @@ I craft elegant, performant web solutions with modern technologies. -->
 
 ```bash 
 # FRONTEND
-echo "Nuxt JS 💚 | Vue.js ⚡ | Tailwind CSS 🎨 | JavaScript/TypeScript 🧠"
+echo "Nuxt JS | Vue.js | Tailwind CSS | JavaScript/TypeScript "
 
 # BACKEND
-echo "Laravel 🚀 | PHP 🐘 | MySQL 🗄️"
+echo "Laravel | PHP | Supabase | MySQL | PostgreSQL"
 
 # TOOLS
-echo "Git 🔄"
+echo "Git"
 ```
 
 <!--
