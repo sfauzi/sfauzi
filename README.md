@@ -10,6 +10,7 @@
 
 I craft elegant, performant web solutions with modern technologies. -->
 
+<!--
 ## 🔧 My Tech Stack 
 
 ```bash 
@@ -22,6 +23,7 @@ echo "Laravel | PHP | Supabase | MySQL | PostgreSQL"
 # TOOLS
 echo "Git"
 ```
+-->
 
 <!--
 ## 🚀 What I Do
